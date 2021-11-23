@@ -7,13 +7,13 @@ const Home = () => {
       <h1 className="text-center">Wel-come</h1>
 
       <div className="text-center pt-3">
-        Produts information extracted from Amazon, Flipcart, and Snapdeal
+        Product information is collected from Amazon, Flipkart and Snapdeal
         <sub> (Click on Products to view products)</sub>
       </div>
 
       <div className="tech-container d-flex justify-content-center">
         <div>
-          <h5 className="font-weight-bold">Technologies</h5>
+          <h5 className="font-weight-bold">Web Technologies</h5>
           <h6>
             <i className="fab fa-html5 "> HTML</i>
           </h6>

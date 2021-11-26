@@ -1,4 +1,4 @@
-## Web-Scraping MERN
+## Web-Scraping (MERN)
 
 ## [Click Here](https://infallible-mccarthy-ed4e97.netlify.app/) to view the delpoyed site.
 
